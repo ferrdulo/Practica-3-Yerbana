@@ -162,6 +162,10 @@ footer {
   margin: 0 10px;
 }
 
+.copyright {
+  color: #8b83a2;
+}
+
 .footer-icons span {
   background-color: #f7fce9;
   padding: 8px;
