@@ -338,3 +338,17 @@ body {
     color: white;
     border: none;
 }
+
+.producto a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.producto a:hover {
+  text-decoration: none;
+}
+
+.producto h3, 
+.producto p {
+  text-decoration: none !important;
+}
